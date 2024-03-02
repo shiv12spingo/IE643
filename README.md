@@ -5,4 +5,4 @@ Asg 2 Q1 is about implementing from scratch the MLP (feed-forward and backprop) 
 Asg 2 Q2 is about implementing MLP for multi-label classification on Restaurant Reviews dataset and experimenting with hyperparameters\
 The scribe assignment utilises RNN and LSTM for sentiment analysis, while experimenting with hyperparameters\
 There was a Image Segmentation challenge, you can find the report and codes for my attempt here\
-Here, you can also find the codes, slides and report for the project on CNN Based Medical Image Segmentation
+You can find the codes, slides and report for the MetaNet project on CNN Based Medical Image Segmentation
